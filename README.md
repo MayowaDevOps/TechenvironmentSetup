@@ -12,7 +12,7 @@
 
 # 1. Visual Studio code (VScode)
 
-![Vscode](./img/img.vscode.PNG)
+![Vscode](./img/img-vscode.PNG)
 
 ---
 
@@ -22,7 +22,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 
 ---
 
-![Git](./img/img.git.PNG)
+![Git](./img/img-git.PNG)
 
 ---
 
@@ -30,7 +30,8 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 
 - Virtual box was installed, tested and captured. The virtual box serves a lot of purposes for the benefit of this course.
 
-![Virtualbox](./img/img.virtualbox.PNG)
+![Virtualbox](./img/img-virtualbox.PNG)
+
 
 ---
 
@@ -38,7 +39,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 
 - Ubuntu in VirtualBox allows you to run Ubuntu as a virtual machine (VM) inside your existing operating system (Windows/macOS/Linux). It provides a safe, isolated environment for testing, development, and learning without affecting your main system.
 
-![Ubuntu](./img/img.ubuntu.PNG)
+![Ubuntu](./img/img-ubuntu.PNG)
 
 ---
 
@@ -46,7 +47,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 
 - GitHub in VirtualBox allows you to use, test, and develop Git-based projects inside an isolated Ubuntu environment. You can clone repositories, push/pull code, and experiment safely without affecting your main OS. Perfect for developers, DevOps, and testing workflows
 
-![Github](./img/img.github.PNG)
+![Github](./img/img-github.PNG)
 
 ---
 
