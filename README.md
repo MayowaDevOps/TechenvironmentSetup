@@ -56,7 +56,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 
 It also allows users to run EC2 instances, which are virtual servers that provide on-demand computing power for hosting applications, testing, and development
 
-![AWS](./img/img.aws.PNG)
+![AWS](./img/img-aws.PNG)
 
 ---
 
