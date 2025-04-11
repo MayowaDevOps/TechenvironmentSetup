@@ -33,6 +33,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 ![Virtualbox](./img/img.virtualbox.PNG)
 
 ---
+
 #### 4. Ubuntu on Virtual box setup
 
 - Ubuntu in VirtualBox allows you to run Ubuntu as a virtual machine (VM) inside your existing operating system (Windows/macOS/Linux). It provides a safe, isolated environment for testing, development, and learning without affecting your main system.
@@ -40,6 +41,7 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 ![Ubuntu](./img/img.ubuntu.PNG)
 
 ---
+
 #### 5. Github setup
 
 - GitHub in VirtualBox allows you to use, test, and develop Git-based projects inside an isolated Ubuntu environment. You can clone repositories, push/pull code, and experiment safely without affecting your main OS. Perfect for developers, DevOps, and testing workflows
@@ -47,12 +49,15 @@ Git was installed and setup, using the Homebrew. The version was also checked vi
 ![Github](./img/img.github.PNG)
 
 ---
+
 ###### 6. Amazon Web Services setup
 
-- AWS (Amazon Web Services) is a cloud computing platform that provides scalable storage, computing power, and networking services. It enables businesses and developers to deploy applications, manage databases, and build cloud infrastructure securely and efficiently.
-- It also allows users to run EC2 instances, which are virtual servers that provide on-demand computing power for hosting applications, testing, and development
+* AWS (Amazon Web Services) is a cloud computing platform that provides scalable storage, computing power, and networking services. It enables businesses and developers to deploy applications, manage databases, and build cloud infrastructure securely and efficiently.
+
+It also allows users to run EC2 instances, which are virtual servers that provide on-demand computing power for hosting applications, testing, and development
 
 ![AWS](./img/img.aws.PNG)
 
 ---
-.. Here are the lists of the DevOps Setup Environment as directed. 
+
+.. Here are the lists of the DevOps Setup Environment as directed.
